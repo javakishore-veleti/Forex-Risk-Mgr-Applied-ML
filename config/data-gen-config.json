@@ -1,0 +1,8 @@
+{
+    "currency_pairs": [
+        "EUR/USD", "USD/JPY", "GBP/USD", "AUD/USD", "USD/CAD",
+        "USD/CHF", "NZD/USD", "EUR/GBP", "EUR/JPY", "GBP/JPY",
+        "AUD/JPY", "USD/MXN", "USD/ZAR", "USD/HKD", "USD/SGD"
+    ],
+    "default_days": 365
+}
