@@ -1,0 +1,13 @@
+{
+  "name": "forex-risk-mgr",
+  "version": "1.0.0",
+  "description": "Machine Learning and AI-Driven Risk Management for FOREX Trading",
+  "scripts": {
+    "start": "run_app.sh",
+    "dev": "FLASK_DEBUG=1 python -m api.app",
+    "docker-up": "DevOps/docker_up.sh",
+    "docker-down": "DevOps/docker_down.sh",
+    "test": "pytest tests/"
+  },
+  "dependencies": {}
+}

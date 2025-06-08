@@ -3,25 +3,27 @@ Flask==2.2.5
 Flask-Cors==3.0.10
 
 # Data Processing
-numpy==1.24.3
-pandas==2.0.1
-scipy==1.10.1
+numpy>=1.26.0,<2.1.0  # Compatible with TensorFlow
+pandas>=2.0.1
+scipy>=1.10.1,<1.27.0
 
 # Machine Learning (Scikit-Learn)
-scikit-learn==1.2.2
+scikit-learn>=1.2.2
 
 # Deep Learning (TensorFlow & PyTorch)
-tensorflow==2.12.0
-torch==2.0.1
-torchvision==0.15.2
+tensorflow>=2.18.1
+torch>=2.0.1
+torchvision>=0.15.2
 
 # Data Visualization
-matplotlib==3.7.1
-seaborn==0.12.2
+matplotlib>=3.7.1
+seaborn>=0.12.2
 
 # API & Networking
-requests==2.31.0
+requests>=2.31.0
 
 # Synthetic Data Generation (Monte Carlo, GANs)
-faker==18.10.0
-torchgan==0.1.0
+faker>=18.10.0
+torchgan>=0.1.0
+
+pymongo
