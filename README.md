@@ -1,5 +1,5 @@
 # **Forex-Risk-Mgr-Applied-ML**
-🚀 **AI-Driven Risk Management for FOREX Trading**
+**AI-Driven Risk Management for FOREX Trading**
 
 ## **Project Overview**
 This project focuses on **machine learning-driven risk management** for **FOREX trading back-office operations**, ensuring **optimal position sizing, exposure control, and risk mitigation**.
