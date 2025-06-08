@@ -31,7 +31,30 @@ This project applies machine learning and deep learning techniques to enhance ri
 
 ---
 
-## Machine Learning and Deep Learning Plan  
+## Leveraging Multiple ML Models for Each Business Objective  
+Applying different machine learning models to each FOREX risk management objective provides a **comprehensive analysis framework**. Each model captures unique aspects of **market behavior, risk patterns, and trade forecasting**.
+
+### Can We Use All ML Models for Every Objective?  
+Absolutely! Using multiple ML models ensures **robust predictions**, uncovering different patterns that a single model might miss. Here’s how various ML models contribute to each objective.
+
+| **Objective** | **Applicable ML Models** | **Why It Works?** |
+|--------------|---------------------------|---------------------|
+| **Monitor real-time trading positions** | Logistic Regression, Random Forest, SVM | Classifies trades as "normal" vs. "high-risk" based on historical trends |
+| **Assess risk exposure dynamically** | Gradient Boosting, LSTM (Deep Learning), Isolation Forest | Detects unusual patterns in exposure and adjusts risk calculations |
+| **Optimize capital allocation** | Reinforcement Learning, Decision Trees, Linear Regression | Learns optimal investment sizing using historical risk-adjusted returns |
+| **Predict market volatility & liquidity risks** | LSTMs, Transformers, K-Means Clustering | Forecasts future market conditions using past trading patterns |
+| **Automate risk reporting & compliance checks** | Ensemble Learning, Autoencoders, DBSCAN | Identifies anomalies and ensures regulatory compliance by automating detection |
+
+### Advantages of Multi-Model Approach  
+- **Different patterns** that one model might overlook.  
+- **Ensemble learning benefits**, improving accuracy.  
+- **Robust predictions**, handling both structured and time-series data.  
+
+By integrating multiple models, we build **stronger, more adaptive AI-driven risk management** for FOREX trading.  
+
+---
+
+## Machine Learning and Deep Learning Plan
 
 ### **Scikit-Learn: Traditional Machine Learning Models**  
 
