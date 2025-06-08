@@ -21,3 +21,7 @@ This project focuses on **machine learning-driven risk management** for **FOREX 
 | **Ensemble Learning** | Combines models for superior risk assessments |
 | **Deployment & Automation** | Real-time integration with trading platforms |
 
+http://127.0.0.1:5100/data/generate-data
+http://127.0.0.1:5100/preprocess/preprocess-trade-data
+http://127.0.0.1:5100/preprocess/preprocess-trade-data-aggregates
+http://localhost:8888/notebooks/notebooks/Step_03_01_Trade_Data_Analysis.ipynb

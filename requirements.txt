@@ -27,3 +27,5 @@ faker>=18.10.0
 torchgan>=0.1.0
 
 pymongo
+
+ipykernel
